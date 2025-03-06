@@ -20,7 +20,7 @@ Ce portfolio est une page statique simple et élégante, mettant en avant mes r�
 ## 📬 Me contacter
 📧 Email : [ajoutez votre email ici]  
 🐙 GitHub : [https://github.com/AbdelBakiY](https://github.com/AbdelBakiY)  
-💼 LinkedIn : [https://linkedin.com/in/abdelbaki](https://linkedin.com/in/abdelbaki)
+💼 LinkedIn : [https://linkedin.com/in/abdelbaki](https://www.linkedin.com/in/abdel-baki-mougari-0998b4299/)
 
 ---
 💡 **N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration !** 🚀
